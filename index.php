@@ -3,7 +3,7 @@
 <html lang="en">
 
     
-<!-- Mirrored from mannatthemes.com/mannat/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Aug 2021 15:26:23 GMT -->
+<!-- Mirrored from mannatthemes.com/mannat/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Aug 2021 15:27:50 GMT -->
 <head>
         <!-- META -->
         <meta charset="utf-8">
@@ -14,7 +14,7 @@
         <meta name="author" content="Mannat Theme">
 
         <!-- PAGE TITLE -->
-        <title>Mannat - Responsive Personal Template</title>
+        <title>Anthony Buic</title>
 
         <!-- BOOTSTRAP CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -70,7 +70,7 @@
                         <div class="col-md-3 col-sm-12">
                             <!-- START LOGO -->
                             <div class="logo">
-                                <a href="index-2.html"><span>M</span>annat</a>
+                                <a href="index-2.html"><span>A</span>nthony</a>
                             </div>
                             <!-- END LOGO -->
                         </div>
@@ -121,8 +121,8 @@
                             <div class="row">
                                 <div class="col-md-12 col-xs-12">
                                     <div class="header-text text-center">
-                                        <h2>Gladys P. Davidson</h2>
-                                        <p>I'm Product Designer</p>
+                                        <h2>Anthony Buic</h2>
+                                        <p>I'm a Senior Full Stack Developer</p>
                                         <div class="social-links header-links">
                                             <ul>
                                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -131,7 +131,7 @@
                                                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                                             </ul>
                                         </div>
-                                        <a class="btn btn-custom smoth-scroll" target="_blank" href="https://themeforest.net/item/mannat-responsive-one-page-personal-template/20166735?ref=Mannat-Themes">Download Now</a>
+                                        <!-- <a class="btn btn-custom smoth-scroll" target="_blank" href="https://themeforest.net/item/mannat-responsive-one-page-personal-template/20166735?ref=Mannat-Themes">Download Now</a> -->
                                     </div>
                                 </div>
                             </div> <!--end row-->
@@ -160,18 +160,21 @@
                         <div class="introduce">
                             <h2 class="title">Personal Details</h2>
                             
-                            <p>Hye, I’m Johnathan Doe residing in this beautiful world. I create websites and mobile apps with great UX and UI design. I have done work with big companies like Nokia, Google and Yahoo. Meet me or Contact me for any queries. One Extra line for filling space. Fill as many you want.Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+                            <p>Senior full stack developer with strong experience in the development of web applications like SaaS, CRM, eCommerce, market places, FinTech platforms, etc based on JavaScript/TypeScript and PHP.
+
+                                Have solid experience with software development methodologies while being a DevOps engineer who is familiar with the implementation of CI/CD based on Github/BB pipelines, Jenkins, Docker, etc.
+                                </p>
 
                             <div class="presonal-inform">
                                 <ul>
-                                    <li><b>Name:</b>Jone Deo</li>
+                                    <li><b>Name:</b>Anthony Buic</li>
                                     <li><b>Phone:</b>(123)_456_7890</li>
-                                    <li><b>Email:</b>Jondeo@email.com</li>
+                                    <li><b>Email:</b>AnthonyBuic@email.com</li>
                                     <li><b>Date of Birth:</b> 6 January 1987</li>
-                                    <li><b>Address:</b>Inox Box 1546, Sollins.</li>
-                                    <li><b>Nationality:</b>Australian</li>
-                                    <li><b>Job:</b>Frelancer</li>
-                                    <li><b>Languages:</b>English, Australian</li>
+                                    <li><b>Address:</b>Poznan Metropolitan Area </li>
+                                    <li><b>Nationality:</b>Poland</li>
+                                    <li><b>Job:</b>Senior Fullstack Developer</li>
+                                    <li><b>Languages:</b>English, Poland</li>
                                 </ul>
                             </div>
                         </div>
@@ -179,7 +182,7 @@
 
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="about-img">
-                            <img src="images/about-me.jpg" class="img-responsive img-thumbnail" alt="About-image">
+                            <img src="images/anthony_buic.jpg" class="img-responsive img-thumbnail" alt="About-image">
                         </div>
                     </div>
                 </div><!--end row-->
@@ -204,7 +207,7 @@
                     <div class="col-sm-3">
                         <div class="skill">
                             <div class="skill-chart skill-circle" data-dimension="160" data-text="77%" data-width="6" data-fontsize="28" data-percent="77" data-fgcolor="#41b548" data-bgcolor="#ffffff"></div>
-                            <h4>Creativity</h4>
+                            <h4>JavaScript/Front-end</h4>
                         </div>
                     </div>
                     <!-- skill -->
@@ -212,7 +215,7 @@
                     <div class="col-sm-3">
                         <div class="skill">
                             <div class="skill-chart skill-circle" data-dimension="160" data-text="86%" data-width="6" data-fontsize="28" data-percent="86" data-fgcolor="#41b548" data-bgcolor="#ffffff"></div>
-                            <h4>Wordpress</h4>
+                            <h4> PHP</h4>
                         </div>
                     </div>
                     <!-- skill -->
@@ -220,7 +223,7 @@
                     <div class="col-sm-3">
                         <div class="skill">
                             <div class="skill-chart skill-circle" data-dimension="160" data-text="93%" data-width="6" data-fontsize="28" data-percent="93" data-fgcolor="#41b548" data-bgcolor="#ffffff"></div>
-                            <h4>Design</h4>
+                            <h4>Database</h4>
                         </div>
                     </div>
                     <!-- skill -->
@@ -228,7 +231,7 @@
                     <div class="col-sm-3">
                         <div class="skill">
                             <div class="skill-chart skill-circle" data-dimension="160" data-text="81%" data-width="6" data-fontsize="28" data-percent="81" data-fgcolor="#41b548" data-bgcolor="#ffffff"></div>
-                            <h4>Coding</h4>
+                            <h4>CI/CD</h4>
                         </div>
                     </div>
                 </div><!-- end row -->
@@ -257,9 +260,13 @@
                                     <i class="pe-7s-diamond"></i>
                                 </div>
                                 <div class="rex-item">
-                                    <h3>2012-2015</h3>
-                                    <h4>Senior Graphic Designer</h4>
-                                    <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                                    <h3>2017-present</h3>
+                                    <h4>Self Employed</h4>
+                                    <p>- Developed a complicated, light-weight and real time SaaS platform using Laravel, Vue.js, Socket.io <br>
+                                        - Implemented a large front-end application in Angular according to wireframes as well as a back-end in Nest.js<br>
+                                        - Worked on building 2 FinTech platforms using React, AWS lambda, S3, etc<br>
+                                        - Designed database architecture and API based on GraphQL, PostgreSQL, NestJS<br>
+                                        - Set up the AWS environment (AWS S3, AWS CloudFront, and AWS EC2)</p>
                                 </div>
                             </div>
                         </div>
@@ -273,9 +280,11 @@
                                     <i class="pe-7s-door-lock"></i>
                                 </div>
                                 <div class="rex-item">
-                                    <h3>2010-2012</h3>
-                                    <h4>Web developer</h4>
-                                    <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                                    <h3>2015-2017</h3>
+                                    <h4>Software Engineer</h4>
+                                    <p>- Built a React web app using hooks, Redux, best practices<br>
+                                        - Constructed a REST and Socket API in Node.js (using the Express.js framework and Socket.IO library)<br>
+                                        - Created an eCommerce website using Next.js and Contentful</p>
                                 </div>
                             </div>
                         </div>
@@ -289,9 +298,15 @@
                                     <i class="pe-7s-rocket"></i>
                                 </div>
                                 <div class="rex-item">
-                                    <h3>2007-2010</h3>
-                                    <h4>Freelancer</h4>
-                                    <p>Believe it or not its just me. Texas tea. Come and knock on our door. We've been waiting for you where are herhers and his. Three's company too.</p>
+                                    <h3>2012-2015</h3>
+                                    <h4>Senior Fullstack developer</h4>
+                                    <p>- Expertise in using UI libraries like Angular Material, redux-thunk to create customized components<br>
+                                        - Experience in developing modern web applications using MEAN stack<br>
+                                        - Developed very complex and large web pages using HTML, CSS, jQuery and Bootstrap for Dynamic web pages<br>
+                                        - Have built several responsive websites based on Bootstrap while making animations with CSS
+                                        transition and canvas<br>
+                                        
+                                        * Technologies: MEAN stack, HTML, CSS, jQuery, Bootstrap</p>
                                 </div>
                             </div>
                         </div>
@@ -317,14 +332,14 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="single-service">
                             <p><span class="fa fa-handshake-o service-icon"></span></p>
-                                <h2 class="text-uppercase">Branding </h2>
-                                <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                <h2 class="text-uppercase">CRM</h2>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima nulla placeat animi voluptates pariatur, odio magni fugit.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="single-service">
                             <p><span class="fa fa-snowflake-o service-icon"></span></p>
-                                <h2 class="text-uppercase">Web design</h2>
+                                <h2 class="text-uppercase">eCommerce</h2>
                                 <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first.</p>
                         </div>
                     </div>
@@ -332,14 +347,14 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="single-service">
                             <p><span class="fa fa-codiepie service-icon"></span></p>
-                                <h2 class="text-uppercase">Marketing</h2>
+                                <h2 class="text-uppercase">Market places</h2>
                                 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="single-service">
                            <p><span class="fa fa-umbrella service-icon"></span></p>
-                                <h2 class="text-uppercase">wordpress</h2>
+                                <h2 class="text-uppercase">FinTech platforms</h2>
                                 <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                         </div>
                     </div>
@@ -679,5 +694,5 @@
     </body>
 
 
-<!-- Mirrored from mannatthemes.com/mannat/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Aug 2021 15:27:11 GMT -->
+<!-- Mirrored from mannatthemes.com/mannat/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 14 Aug 2021 15:27:50 GMT -->
 </html>
